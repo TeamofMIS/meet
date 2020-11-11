@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: [Meet]
-description: [Weekly meeting record for our team]
+title: Meet
+description: Weekly meeting record for our team
 show_downloads: false
+is_project_page: false
