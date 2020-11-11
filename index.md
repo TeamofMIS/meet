@@ -1,4 +1,4 @@
-# Welcome to our team group page 欢迎访问小组的主页
+# Team Record
 
 Team meeting slides from our small group meeting, usually update every Tuesday.
 收集了每周小组会的演示文稿等文件，一般每周二更新
