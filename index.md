@@ -15,17 +15,21 @@ Team meeting slides from our small group meeting, usually update every Tuesday.
 
 ## People
 
+In alphabetical order 以英文首字母排序
+
 ### Current
 
-- Hao Wang
+- [Hao Wang](https://waynehfut.com/)
 - Hongmin Zhang
-- Jiaxin Wang
+- [Jiaxin Wang](https://jiaxinshiwo.github.io/)
 - Rui Tan
 - Shuizhou Ke
 - Yuanbo Zhu
 - Yuxuan Yang
 
-In alphabetical order 以英文首字母排序
+### Alumni
+
+
 
 ---
 
