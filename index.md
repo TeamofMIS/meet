@@ -6,7 +6,7 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 
 - 11/17/2020, Brief introduction for medical image classification, from [Kaggle](https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy), by Yuanbo Zhu, [attachments](/attachments/other/step-wise-approach-cnn-model-77-0344-accuracy.ipynb);
 
-:memo: Please list the item with data, title, source, people, attachments \<optional\> 请以日期，标题，来源，报告人，附件<可选>的形式来记录。
+:memo: Please list the item with date, title, source, people, attachments \<optional\> 请以日期，标题，来源，报告人，附件<可选>的形式来记录。
 
 ## Upcoming
 
