@@ -11,7 +11,7 @@
 </head>
 # Meeting Record
 
-Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Monday.
 
 ## Schedule
 
