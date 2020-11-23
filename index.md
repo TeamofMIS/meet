@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 # Meeting Record
 
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
