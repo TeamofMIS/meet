@@ -3,8 +3,5 @@ title: Meet
 description: Weekly meeting record for our team
 show_downloads: false
 is_project_page: true
-markdown: kramdown
-kramdown:
-    math_engine: katex
 plugins:
   - jemoji
