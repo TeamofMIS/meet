@@ -17,6 +17,7 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 
 - 11/17/2020, Brief introduction for medical image classification, from [Kaggle](https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy), by Yuanbo Zhu, [attachments](/attachments/other/step-wise-approach-cnn-model-77-0344-accuracy.ipynb);
 - 11/23/2020, Quick tutorials for [Git](https://blog.waynehfut.com/2020/02/20/quickgittur/), [$\LaTeX$](https://blog.waynehfut.com/2020/01/20/intro-to-tex/) and [Zotero](https://www.zotero.org/support/zh/quick_start_guide), from [Blog](https://blog.waynehfut.com) and [Zotero](https://www.zotero.org/support/zh/quick_start_guide), by Hao Wang, [attachment](attachments/slides/2020-11-23%20Quick%20tutorials%20for%20git%20latex%20and%20zotero.pdf);
+- 12/7/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
 
 :memo: Please list the item with date, title, source, people, attachments \<optional\> 请以日期，标题，来源，报告人，附件\<可选\>的形式来记录。
 
