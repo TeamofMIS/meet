@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 title: Meet
 description: Weekly meeting record for our team
 show_downloads: false
-is_project_page: true
+is_project_page: false
 plugins:
   - jemoji
