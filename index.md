@@ -14,7 +14,7 @@
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Schedule
-- 1/5/2021, Brief introduction for IOU Loss in Object detection, [attachments](attachments/slides/2021-1-5%20IOU%20汇%20总.pdf), by Shuizhou Ke;
+- 1/5/2021, Brief introduction for IOU Loss in Object detection, [attachments](attachments/slides/2021-1-5 IOU汇总.pdf), by Shuizhou Ke;
 
 - 12/7/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
 
