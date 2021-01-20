@@ -14,7 +14,7 @@
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Schedule
-- 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://mp.weixin.qq.com/s?src=11&timestamp=1610947774&ver=2835&signature=btwfz3ylnY5ek0tveIbuLoC3aDBPiHhbGSWoLKnAZ4XCPHONNUKy3K*vpjvDW3hFoOujavn2ESCTtaMiiGMO0C6oVZ8-upVy3XUCjsgDAnkvOwVN0F*9KPbXAVUN5ZPW&new=1), by Yuxuan Yang;
+- 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
 - 1/5/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
 
