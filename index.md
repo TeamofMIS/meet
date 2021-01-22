@@ -14,6 +14,8 @@
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Schedule
+- 1/26/2021, Brief introduction for MIC(Maximal Information Coefficient), from[attachments](attachments/Maximal Information Coefficient.pdf) and [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan;
+
 - 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
 - 1/5/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
