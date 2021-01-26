@@ -14,16 +14,15 @@
 
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
-
 ## Webinar
 
 We will continue our group meeting on Tencent WeMeet during the work from home, Click the URL or meeting ID：744 3864 0562 to join the meeting
 
-https://meeting.tencent.com/s/fUFbqKMaGpof
+[https://meeting.tencent.com/s/fUFbqKMaGpof](https://meeting.tencent.com/s/fUFbqKMaGpof)
 
 ## Upcoming
-- 1/26/2021, Postponed to 1/29/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf); 
 
+- 1/26/2021, Postponed to 1/29/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
 
 ## Scheduled
 
@@ -40,8 +39,6 @@ https://meeting.tencent.com/s/fUFbqKMaGpof
 - 11/17/2020, Brief introduction for medical image classification, from [Kaggle](https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy), by Yuanbo Zhu, [attachments](/attachments/other/step-wise-approach-cnn-model-77-0344-accuracy.ipynb);
 
 :memo: Please list the item with date, title, source, people, attachments \<optional\> 请以日期，标题，来源，报告人，附件\<可选\>的形式来记录。
-
-
 
 ## People
 
