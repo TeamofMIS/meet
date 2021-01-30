@@ -22,9 +22,11 @@ We will continue our group meeting on Tencent WeMeet during the work from home, 
 
 ## Upcoming
 
-- 1/26/2021, Postponed to 1/29/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
+The next meeting will be held on 27th Feb. Happy new year! :tada:
 
 ## Scheduled
+
+- 1/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
 
 - 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
