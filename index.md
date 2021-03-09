@@ -13,16 +13,9 @@
 # Meeting Record
 
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
-
-## Webinar
-
-We will continue our group meeting on Tencent WeMeet during the work from home, Click the URL or meeting ID：744 3864 0562 to join the meeting
-
-[https://meeting.tencent.com/s/fUFbqKMaGpof](https://meeting.tencent.com/s/fUFbqKMaGpof)
-
 ## Upcoming
 
-The next meeting will be held on 27th Feb. Happy new year! :tada:
+03/09/2021, Research summary and plan, by the team member.
 
 ## Scheduled
 
@@ -39,8 +32,6 @@ The next meeting will be held on 27th Feb. Happy new year! :tada:
 - 11/23/2020, Quick tutorials for [Git](https://blog.waynehfut.com/2020/02/20/quickgittur/), [$\LaTeX$](https://blog.waynehfut.com/2020/01/20/intro-to-tex/) and [Zotero](https://www.zotero.org/support/zh/quick_start_guide), from [Blog](https://blog.waynehfut.com) and [Zotero](https://www.zotero.org/support/zh/quick_start_guide), by Hao Wang, [attachment](attachments/slides/2020-11-23%20Quick%20tutorials%20for%20git%20latex%20and%20zotero.pdf);
 
 - 11/17/2020, Brief introduction for medical image classification, from [Kaggle](https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy), by Yuanbo Zhu, [attachments](/attachments/other/step-wise-approach-cnn-model-77-0344-accuracy.ipynb);
-
-:memo: Please list the item with date, title, source, people, attachments \<optional\> 请以日期，标题，来源，报告人，附件\<可选\>的形式来记录。
 
 ## People
 
