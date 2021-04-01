@@ -13,6 +13,7 @@
 # Meeting Record
 
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
+
 ## Upcoming
 
 03/09/2021, Research summary and plan, by the team member.
@@ -48,6 +49,7 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
+- [Yiyang Su](https://github.com/syypretend)
 
 ### Alumni
 
