@@ -16,6 +16,7 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 
 ## Upcoming
 
+- 04/27/2021, [Few shot learning with Prototypical Network (Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang.
 
 ## Scheduled
 
@@ -50,11 +51,11 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
-- [Yan Qiu]()
+- [Yan Qiu](https://github.com/qyhfut)
 - [Luyue Zhao](https://innocentius.github.io/)
 - Caiyun Zhang
 - [Yiyang Su](https://github.com/syypretend)
-- Shihui Li
+- [Shihui Li](https://github.com/Li0316)
 - Xiaojian Huang
 
 ### Alumni
