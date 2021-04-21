@@ -13,11 +13,13 @@
 # Meeting Record
 
 Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035), this page will collect some documents from our subgroup meeting, usually update every Tuesday.
+
 ## Upcoming
 
-03/09/2021, Research summary and plan, by the team member.
 
 ## Scheduled
+
+- 03/09/2021, Research summary and plan, by the team member.
 
 - 1/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
 
@@ -39,7 +41,7 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 
 - [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035)
 
-### Current student
+### Current members
 
 - [Hao Wang](https://waynehfut.com/)
 - [Hongmin Zhang](https://github.com/Vikenmin)
@@ -48,7 +50,12 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
+- Yan Qiu
+- Luyue Zhao
+- Caiyun Zhang
+- [Yiyang Su](https://github.com/syypretend)
+- Shihui Li
+- Xiaojian Huang
 
 ### Alumni
 
-People in alphabetical order
