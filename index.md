@@ -50,8 +50,8 @@ Welcome to the subgroup meeting page of Team [Prof. Ding](http://som.hfut.edu.cn
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
-- Yan Qiu
-- Luyue Zhao
+- [Yan Qiu]()
+- [Luyue Zhao](https://innocentius.github.io/)
 - Caiyun Zhang
 - [Yiyang Su](https://github.com/syypretend)
 - Shihui Li
