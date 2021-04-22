@@ -12,7 +12,7 @@
 
 # Meeting Record
 
-Welcome to the subgroup meeting page of the team of Internet of healthcare systems (IHS) which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This page will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Upcoming
 
