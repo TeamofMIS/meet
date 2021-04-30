@@ -16,19 +16,19 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 
 ## Upcoming
 
-- 04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang.
+- 05/11/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang.
 
 ## Scheduled
 
 - 03/09/2021, Research summary and plan, by the team member.
 
-- 1/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
+- 01/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
 
-- 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
+- 01/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
-- 1/5/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
+- 01/05/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
 
-- 12/7/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
+- 12/07/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
 
 - 11/30/2020, Attention mechanism in deep learning,from [深度学习与 NLP](http://dwz.date/dZXg),by Hongmin Zhang;
 
@@ -52,7 +52,7 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
 - [Yan Qiu](https://github.com/qyhfut)
-- [Luyue Zhao](https://innocentius.github.io/)
+- [Luyue Zhao](https://innocentius.tech/)
 - Caiyun Zhang
 - [Yiyang Su](https://github.com/syypretend)
 - [Shihui Li](https://github.com/Li0316)
