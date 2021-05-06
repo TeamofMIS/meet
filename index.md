@@ -59,3 +59,17 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 - Xiaojian Huang
 
 ### Alumni
+
+# Resources
+
+This section composes of urls and documents that could prove to be helpful in learning and research.
+
+### Open-source Courses
+
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
+- [Stanford University Open Courses](https://www.youtube.com/user/stanfordonline)
+
+### Tutorials
+
+- [Sentdex tutorials on Deep Learning](https://www.youtube.com/user/sentdex)
+- 
