@@ -72,4 +72,9 @@ This section composes of urls and documents that could prove to be helpful in le
 ### Tutorials
 
 - [Sentdex tutorials on Deep Learning](https://www.youtube.com/user/sentdex)
-- 
+- [Official tutorial to Tensorflow](https://www.tensorflow.org/tutorials/quickstart/advanced)
+
+### Process Efficiency Tools
+
+- [Edex-UI (GUI SSH Client for windows/linux)](https://github.com/GitSquared/edex-ui)
+- [Typora (Markdown editor used for this page!)](https://typora.io/)
