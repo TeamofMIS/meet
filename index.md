@@ -12,10 +12,9 @@
 
 # Meeting Record
 
-Welcome to the subgroup meeting page of the team of Internet of healthcare systems (IHS) which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This page will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Upcoming
-
 
 
 ## Scheduled
@@ -24,13 +23,13 @@ Welcome to the subgroup meeting page of the team of Internet of healthcare syste
 
 - 03/09/2021, Research summary and plan, by the team member.
 
-- 1/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
+- 01/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](attachments/paper/MaximalInformationCoefficient.pdf);
 
-- 1/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
+- 01/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
-- 1/5/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
+- 01/05/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](attachments/slides/2021-1-5%20IOU汇总.pdf);
 
-- 12/7/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
+- 12/07/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
 
 - 11/30/2020, Attention mechanism in deep learning,from [深度学习与 NLP](http://dwz.date/dZXg),by Hongmin Zhang;
 
@@ -54,10 +53,29 @@ Welcome to the subgroup meeting page of the team of Internet of healthcare syste
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
 - [Yan Qiu](https://github.com/qyhfut)
-- [Luyue Zhao](https://innocentius.github.io/)
+- [Luyue Zhao](https://innocentius.tech/)
 - Caiyun Zhang
 - [Yiyang Su](https://github.com/syypretend)
 - [Shihui Li](https://github.com/Li0316)
 - Xiaojian Huang
 
 ### Alumni
+
+# Resources
+
+This section composes of urls and documents that could prove to be helpful in learning and research.
+
+### Open-source Courses
+
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
+- [Stanford University Open Courses](https://www.youtube.com/user/stanfordonline)
+
+### Tutorials
+
+- [Sentdex tutorials on Deep Learning](https://www.youtube.com/user/sentdex)
+- [Official tutorial to Tensorflow](https://www.tensorflow.org/tutorials/quickstart/advanced)
+
+### Process Efficiency Tools
+
+- [Edex-UI (GUI SSH Client for windows/linux)](https://github.com/GitSquared/edex-ui)
+- [Typora (Markdown editor used for this page!)](https://typora.io/)
