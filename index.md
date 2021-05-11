@@ -16,9 +16,11 @@ Welcome to the subgroup meeting page of the team of Internet of healthcare syste
 
 ## Upcoming
 
-- 04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang.
+
 
 ## Scheduled
+
+- 04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang. [slides](attachments/slides/2021-05-11-prototypicalnet.pdf)
 
 - 03/09/2021, Research summary and plan, by the team member.
 
