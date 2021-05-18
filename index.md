@@ -16,7 +16,7 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 
 ## Upcoming
 
-- 05/18/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](attachments/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
+- 05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](attachments/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
 
 
 ## Scheduled
