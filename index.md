@@ -71,6 +71,7 @@ This section composes of urls and documents that could prove to be helpful in le
 
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
 - [Stanford University Open Courses](https://www.youtube.com/user/stanfordonline)
+- [Two Minute Paper on AI & Machine Learning](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
 ### Tutorials
 
