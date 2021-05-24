@@ -82,3 +82,4 @@ This section composes of urls and documents that could prove to be helpful in le
 
 - [Edex-UI (GUI SSH Client for windows/linux)](https://github.com/GitSquared/edex-ui)
 - [Typora (Markdown editor used for this page!)](https://typora.io/)
+- [Scimago Journal & Country Rank](https://www.scimagojr.com/)
