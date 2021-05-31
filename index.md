@@ -20,9 +20,7 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 
 ## Scheduled
 
-
 - 05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](attachments/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
-
 
 - 04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang. [slides](attachments/slides/2021-05-11-prototypicalnet.pdf)
 
@@ -51,9 +49,6 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 ### Current members
 
 - [Hao Wang](https://waynehfut.com/)
-- [Hongmin Zhang](https://github.com/Vikenmin)
-- [Jiaxin Wang](https://github.com/jiaxinshiwo)
-- [Rui Tan](https://github.com/Terry-tr)
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
@@ -65,6 +60,10 @@ Welcome to the subgroup meeting page of the team IHS which advising by [Prof. Di
 - Xiaojian Huang
 
 ### Alumni
+
+- [Hongmin Zhang](https://github.com/Vikenmin)
+- [Jiaxin Wang](https://github.com/jiaxinshiwo)
+- [Rui Tan](https://github.com/Terry-tr)
 
 # Resources
 
