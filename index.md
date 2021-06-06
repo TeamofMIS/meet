@@ -59,6 +59,12 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 - [Hongmin Zhang](https://github.com/Vikenmin)
 - [Jiaxin Wang](https://github.com/jiaxinshiwo)
 - [Rui Tan](https://github.com/Terry-tr)
+- [Yan Qiu](https://github.com/qyhfut)
+- [Luyue Zhao](https://innocentius.tech/)
+- Caiyun Zhang
+- [Yiyang Su](https://github.com/syypretend)
+- [Shihui Li](https://github.com/Li0316)
+- Xiaojian Huang
 
 # Resources
 
