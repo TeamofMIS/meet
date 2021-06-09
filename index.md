@@ -14,11 +14,17 @@
 
 Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This page will collect some documents from our subgroup meeting, usually update every Tuesday.
 
-## Upcoming
+# Group News
 
-- 2021/06/07, Research plan and summary.
+- 06/05/2021, Congratulations to group member Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending his dissertation!
 
-## Scheduled
+## Upcoming Events
+
+- 06/16/2021, Few shot learning with medical image, by Hao Wang.
+
+## Scheduled Events
+
+- 06/07/2021, Research plan and summary.
 
 - 06/01/2021, Undergraduate thesis defense, by Yuxuan Yang, Xiaojian Huang, and Shihui Li.
 - 05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](attachments/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
