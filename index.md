@@ -20,9 +20,11 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 ## Upcoming Events
 
-- 06/16/2021, Few shot learning with medical image, by Hao Wang.
+- 06/21/2021, Research progress, by Shuizhou Ke.
 
 ## Scheduled Events
+
+- 06/20/2021, Few shot learning with medical image, by Hao Wang.
 
 - 06/07/2021, Research plan and summary.
 
@@ -59,6 +61,7 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 - [Shuizhou Ke](https://github.com/ksz-creat)
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
+- [Yiyang Su](https://github.com/syypretend)
 
 ### Alumni
 
@@ -68,7 +71,6 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 - [Yan Qiu](https://github.com/qyhfut)
 - [Luyue Zhao](https://innocentius.tech/)
 - Caiyun Zhang
-- [Yiyang Su](https://github.com/syypretend)
 - [Shihui Li](https://github.com/Li0316)
 - Xiaojian Huang
 
