@@ -16,7 +16,7 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 # Group News
 
-- 06/05/2021, Congratulations to group member Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending his dissertation!
+- 06/05/2021, Congratulations to group members Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending theirs dissertation!
 
 ## Upcoming Events
 
