@@ -5,7 +5,7 @@ tagline: Group site for team MIS
 email: waynehfut@outlook.com
 description: >
   Group site for team MIS
-baseurl: "/bulma-clean-theme"
+baseurl: "/"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
