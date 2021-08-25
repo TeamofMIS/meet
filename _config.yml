@@ -5,8 +5,8 @@ tagline: Group site for team MIS
 email: waynehfut@outlook.com
 description: >
   Group site for team MIS
-baseurl: "/"
-url: "https://www.csrhymes.com"
+# baseurl: "/"
+url: "https://meet.waynehfut.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: waynehfut
