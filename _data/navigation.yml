@@ -1,0 +1,12 @@
+- name: People
+  link: /peoples/
+- name: Post
+  link: /blog/
+- name: Archive
+  link: /#
+  dropdown:
+    - name: 2020
+      link: /ach20/
+- name: About
+  link: /about/
+

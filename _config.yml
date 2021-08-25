@@ -1,7 +1,80 @@
-theme: jekyll-theme-cayman
-title: Meet
-description: Weekly meeting record for our team
-show_downloads: false
-is_project_page: false
+# Site Settings
+lang: cn
+title: TeamMIS
+tagline: Group site for team MIS
+email: waynehfut@outlook.com
+description: >
+  Group site for team MIS
+baseurl: "/bulma-clean-theme"
+url: "https://www.csrhymes.com"
+permalink: pretty
+#favicon: /path/to/favicon.png
+gh_sponsor: waynehfut
+#hide_share_buttons: true
+theme_color: '#eeeeee'
+#fixed_navbar: top
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  # shortname: csrhymes
+
+
 plugins:
-  - jemoji
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Hao Wang"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
+
+footer_menu: footer_menu
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
