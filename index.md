@@ -18,7 +18,7 @@ show_sidebar: false
     </script>
 </head>
 
-Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 # Group News
 

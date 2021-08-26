@@ -4,6 +4,17 @@ subtitle: Archive meet
 layout: page
 show_sidebar: false
 ---
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
 
 - 12/07/2020, Brief introduction for medical image segmentation, from [MICCAI](https://github.com/ternaus/robot-surgery-segmentation), by Jiaxin Wang;
