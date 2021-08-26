@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## Advisor
 
-- [Prof. Ding](http://som.hfut.edu.cn/wgp/web/js_nr.jsp?id=1000012012800035)
+- [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm)
 
 ## Current members
 
