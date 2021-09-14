@@ -7,39 +7,39 @@ show_sidebar: false
 ---
 
 <head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    inlineMath: [['$','$']]
+    }
+    });
+  </script>
 </head>
 
 Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 # Group News
 
--   06/05/2021, Congratulations to group members Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending theirs dissertation!
+- 06/05/2021, Congratulations to group members Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending theirs dissertation!
 
 ## Upcoming Events
-
+- 09/14/2021, Research plan and summary.
 ## Scheduled Events
 
--   07/05/2021, Research progress, by Shuizhou Ke.
--   06/20/2021, Few shot learning with medical image, by Hao Wang.
--   06/07/2021, Research plan and summary.
--   06/01/2021, Undergraduate thesis defense, by Yuxuan Yang, Xiaojian Huang, and Shihui Li.
--   05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](assets/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
+- 07/05/2021, Research progress, by Shuizhou Ke.
+- 06/20/2021, Few shot learning with medical image, by Hao Wang.
+- 06/07/2021, Research plan and summary.
+- 06/01/2021, Undergraduate thesis defense, by Yuxuan Yang, Xiaojian Huang, and Shihui Li.
+- 05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](assets/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
 
--   04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang. [slides](assets/slides/2021-05-11-prototypicalnet.pdf)
+- 04/27/2021, Few shot learning with Prototypical Network [(Paper from NeurIPS 2017)](https://blog.waynehfut.com/2020/11/02/prototypical_network_for_few_shot_learning/), and how to find papers on Web of Science and CNKI, By Hao Wang. [slides](assets/slides/2021-05-11-prototypicalnet.pdf)
 
--   03/09/2021, Research summary and plan, by the team member.
+- 03/09/2021, Research summary and plan, by the team member.
 
--   01/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](assets/paper/MaximalInformationCoefficient.pdf);
+- 01/30/2021, Brief introduction for MIC(Maximal Information Coefficient), from [Blog](https://blog.csdn.net/qq_27586341/article/details/90603140?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control), by Rui Tan, [attachments](assets/paper/MaximalInformationCoefficient.pdf);
 
--   01/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
+- 01/20/2021, Brief introduction for Transformer, from [大数据文摘](https://zhuanlan.zhihu.com/p/54356280), by Yuxuan Yang;
 
--   01/05/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](assets/slides/2021-1-5%20IOU汇总.pdf);
+- 01/05/2021, Brief introduction for IOU Loss in Object detection, by Shuizhou Ke, [attachments](assets/slides/2021-1-5%20IOU汇总.pdf);
