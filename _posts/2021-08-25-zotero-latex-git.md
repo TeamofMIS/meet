@@ -16,7 +16,5 @@ Quick tutorials for Git, Latex and Zotero by Hao Wang.
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXFAeL0M-ssA1GK5jiOJHjb_tJ_aFKb7tL9jGPVmzJ9oCdQ1vZkcx7IMHCrl_YhQq4gZHBr6tD8Kx7/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<!-- Google embed ends -->
+ {% pdf "/assets/slides/presentation-git-latex-zotero.pptx" %}
 </div>
