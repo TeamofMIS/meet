@@ -12,9 +12,4 @@ tags: resource latex git zotero
 
 Quick tutorials for Git, Latex and Zotero by Hao Wang.
 
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
- {% pdf "/assets/slides/presentation-git-latex-zotero.pptx" %}
-</div>
+{% pdf "/assets/slides/presentation-git-latex-zotero.pptx" no_link %}
