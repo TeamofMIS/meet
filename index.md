@@ -26,6 +26,8 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 ## Upcoming Events
 
+-   09/14/2021, Research plan and summary.
+
 ## Scheduled Events
 
 -   07/05/2021, Research progress, by Shuizhou Ke.
