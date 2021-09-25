@@ -19,6 +19,7 @@ show_sidebar: false
 - [Yuanbo Zhu](https://github.com/xthc)
 - [Yuxuan Yang](https://github.com/trigger26)
 - [Yiyang Su](https://github.com/syypretend)
+- [Shihui Li](https://github.com/Li0316)
 
 ## Alumni
 
@@ -28,5 +29,4 @@ show_sidebar: false
 - [Yan Qiu](https://github.com/qyhfut)
 - [Luyue Zhao](https://innocentius.tech/)
 - Caiyun Zhang
-- [Shihui Li](https://github.com/Li0316)
 - Xiaojian Huang

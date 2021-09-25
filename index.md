@@ -22,8 +22,6 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 # Group News
 
-- 06/05/2021, Congratulations to group members Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending theirs dissertation!
-
 ## Upcoming Events
 
 - 09/28/2021, `Research progress`, by Shuizhou Ke.
@@ -35,6 +33,7 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 - 07/05/2021, Research progress, by Shuizhou Ke.
 - 06/20/2021, Few shot learning with medical image, by Hao Wang.
 - 06/07/2021, Research plan and summary.
+- 06/05/2021, Congratulations to group members Jiaxin Wang, Hongmin Zhang, Rui Tan on successfully defending theirs dissertation!
 - 06/01/2021, Undergraduate thesis defense, by Yuxuan Yang, Xiaojian Huang, and Shihui Li.
 - 05/25/2021, On Piracy, Plagiarism, and Copyright Infringement, by Luyue Zhao, [attachments](assets/slides/2021-05-18-Piracy_Plagiarism_and_Copyright_Infringement.pdf);
 
