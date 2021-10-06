@@ -22,6 +22,8 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 # Group News
 
+- 10/01/2021, Congratulations to our group member Yuxuan Yang won the 3rd Prize (Team name: HFUT-MedIA) in Surgical Action Triplet Recognition 2021 Challenge! [News](https://cholectriplet2021.grand-challenge.org/), [Leadboard](https://cholectriplet2021.grand-challenge.org/results/).
+
 ## Upcoming Events
 
 - 09/28/2021, `Research progress`, by Shuizhou Ke.
