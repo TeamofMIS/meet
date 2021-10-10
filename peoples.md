@@ -20,6 +20,7 @@ show_sidebar: false
 - [Yuxuan Yang](https://github.com/trigger26)
 - [Yiyang Su](https://github.com/syypretend)
 - [Shihui Li](https://github.com/Li0316)
+- [Yifan Wang](https://github.com/Graves-2077)
 
 ## Alumni
 
