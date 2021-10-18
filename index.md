@@ -21,16 +21,17 @@ show_sidebar: false
 Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 # Group News
-- 10/16/2021, Code introduction for Transformer, by Shuizhou Ke, [attachments](assets/slides/2021.10.16 transformer.pdf);
+
 - 10/10/2021, Welcome Yifan Wang join our team!
 - 10/01/2021, Congratulations to our group member Yuxuan Yang won the 3rd Prize (Team name: HFUT-MedIA) in Surgical Action Triplet Recognition 2021 Challenge! [News](https://cholectriplet2021.grand-challenge.org/), [Leadboard](https://cholectriplet2021.grand-challenge.org/results/).
 
 ## Upcoming Events
 
-- 09/28/2021, `Research progress`, by Shuizhou Ke.
+- 10/19/2021, Swarm Learning, by Yiyang Su.
 
 ## Scheduled Events
 
+- 10/16/2021, Code introduction for Transformer, by Shuizhou Ke, [attachments](assets/slides/2021.10.16 transformer.pdf);
 - 09/21/2021, Happy Mid-autumn Festival, we will have our meet on 09/28/2021.
 - 09/14/2021, Research plan and summary.
 - 07/05/2021, Research progress, by Shuizhou Ke.
