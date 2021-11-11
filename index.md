@@ -25,6 +25,8 @@ Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Di
 
 ## Scheduled Events
 
+- 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care：Exploiting Interaction Dependency and Temporal Patterns.pdf);
+
 - 11/04/2021, ADLR, by Shihui Li, [attachments](assets/slides/ADLR.pdf);
 
 - 10/19/2021, Swarm Learning, by Yiyang Su, [attachments](assets/slides/2021-10-19-swarmlearning.pdf);
