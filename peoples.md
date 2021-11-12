@@ -8,11 +8,11 @@ show_sidebar: false
 
 # People
 
-## Advisor
+## Faculty
 
 - [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm)
 
-## Current members
+## Current member
 
 - [Hao Wang](https://waynehfut.com/)
 - [Shuizhou Ke](https://github.com/ksz-creat)
@@ -24,10 +24,14 @@ show_sidebar: false
 
 ## Alumni
 
-- [Hongmin Zhang](https://github.com/Vikenmin)
-- [Jiaxin Wang](https://github.com/jiaxinshiwo)
-- [Rui Tan](https://github.com/Terry-tr)
-- [Yan Qiu](https://github.com/qyhfut)
-- [Luyue Zhao](https://innocentius.tech/)
-- Caiyun Zhang
-- Xiaojian Huang
+- [Hongmin Zhang, MSc'2020,](https://github.com/Vikenmin) was employed by Suning.com Co.,ltd.
+- [Jiaxin Wang, MSc'2020,](https://github.com/jiaxinshiwo) was employed by the Second Affiliated Hospital of Anhui Medical University.
+- [Rui Tan, MSc'2020,](https://github.com/Terry-tr) was employed by Haier Group.
+
+
+## Visitor
+
+- [Yan Qiu](https://github.com/qyhfut) (2021.06-2021.09)
+- [Luyue Zhao](https://innocentius.tech/) (2021.06-2021.09)
+- Caiyun Zhang  (2021.06-2021.09)
+- Xiaojian Huang (2020.12-2021.06)

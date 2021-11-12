@@ -18,18 +18,17 @@ show_sidebar: false
   </script>
 </head>
 
-Welcome to the subgroup meeting page of the team MIS which advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
 
 ## Upcoming Events
 
+- 10/16/2021, Swarm Learning (part II), by Yiyang Su.
 
 ## Scheduled Events
 
-- 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/A Deep Learning Approach for Recognizing Activity of Daily Living (ADL) for Senior Care：Exploiting Interaction Dependency and Temporal Patterns.pdf);
+- 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/ADLR.pdf);
 
-- 11/04/2021, ADLR, by Shihui Li, [attachments](assets/slides/ADLR.pdf);
-
-- 10/19/2021, Swarm Learning, by Yiyang Su, [attachments](assets/slides/2021-10-19-swarmlearning.pdf);
+- 10/19/2021, Swarm Learning (part I), by Yiyang Su, [attachments](assets/slides/2021-10-19-swarmlearning.pdf);
 
 - 10/16/2021, Code introduction for Transformer, by Shuizhou Ke, [attachments](assets/slides/2021-10-16-transformer.pdf);
 
