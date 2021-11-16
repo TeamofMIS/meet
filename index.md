@@ -22,7 +22,7 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 10/16/2021, Swarm Learning (part II), by Yiyang Su.
+- 10/16/2021, $\LaTeX$ in action, how to write the paper with $\LaTeX$, by Hao Wang.
 
 ## Scheduled Events
 
