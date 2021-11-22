@@ -22,9 +22,11 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 10/16/2021, $\LaTeX$ in action, how to write the paper with $\LaTeX$, by Hao Wang.
+- 11/23/2021, Cancelled due to the exam week, we will have our meet on 11/30/2021.
 
 ## Scheduled Events
+
+- 11/16/2021, $\LaTeX$ in action, how to write the paper with $\LaTeX$, by Hao Wang, attachments can be find in the archive.
 
 - 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/ADLR.pdf);
 
