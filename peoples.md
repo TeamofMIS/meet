@@ -26,7 +26,7 @@ show_sidebar: false
 
 - [Hongmin Zhang, MSc'2020,](https://github.com/Vikenmin) was employed by Suning.com Co.,ltd.
 - [Jiaxin Wang, MSc'2020,](https://github.com/jiaxinshiwo) was employed by the Second Affiliated Hospital of Anhui Medical University.
-- [Rui Tan, MSc'2020,](https://github.com/Terry-tr) was employed by Haier Group.
+- [Rui Tan, MSc'2020,](https://github.com/Terry-tr) was employed by Midea Group.
 
 
 ## Visitor
