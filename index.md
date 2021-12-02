@@ -26,8 +26,6 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Scheduled Events
 
-- 12/02/2021, LIME, by Yuanbo Zhu, [attachments](assets/slides/2021-12-02-LIME.pdf).
-
 - 11/23/2021, Cancelled due to the exam week, we will have our meet on 11/30/2021.
 
 - 11/16/2021, $\LaTeX$ in action, how to write the paper with $\LaTeX$, by Hao Wang, attachments can be find in the archive.
