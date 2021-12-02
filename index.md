@@ -26,9 +26,11 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Scheduled Events
 
+- 11/11/2021, ADLR, by Yuanbo Zhu, [attachments](assets/slides/2021-12-02-LIME.pdf);
+
 - 11/16/2021, $\LaTeX$ in action, how to write the paper with $\LaTeX$, by Hao Wang, attachments can be find in the archive.
 
-- 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/ADLR.pdf);
+- 11/11/2021, ADLR, by Shihui Li, [attachments](assets/slides/2021-11-11-ADLR.pdf);
 
 - 10/19/2021, Swarm Learning (part I), by Yiyang Su, [attachments](assets/slides/2021-10-19-swarmlearning.pdf);
 
