@@ -18,13 +18,15 @@ show_sidebar: false
   </script>
 </head>
 
-Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Tuesday.
+Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Thursday.
 
 ## Upcoming Events
 
-- 12/02/2021, LIME, by Yuanbo Zhu, [attachments](assets/slides/2021-12-02-LIME.pdf).
+- 12/09/2021, We will discuss about Federated Learning, by Yiyang Su.
 
 ## Scheduled Events
+
+- 12/02/2021, LIME, by Yuanbo Zhu, [attachments](assets/slides/2021-12-02-LIME.pdf).
 
 - 11/23/2021, Cancelled due to the exam week, we will have our meet on 11/30/2021.
 
