@@ -1,5 +1,6 @@
 <div x-data="{ open: false }">
-    <a @click="open = true" title="View large image">
+    <!-- remove the card img click by change @click into false -->
+    <a @click="open = false" title="View large image"> 
         <figure class="image {{ include.ratio | default: is-16by9 }}">
             <img src="{{ include.link | absolute_url }}" alt="{{ include.alt }}">
         </figure>

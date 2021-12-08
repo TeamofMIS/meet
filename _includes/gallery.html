@@ -8,10 +8,10 @@
         {% for image in gallery.images %}
         <div class="column is-4-desktop is-6-tablet">
             <div class="card">
-                <div class="card-image">
+                <div class="card-image" style="float: left">
                     {% include image-modal.html ratio=image.ratio link=image.link alt=image.alt large_link=image.large_link %}
                 </div>
-                <div class="card-content">
+                <div class="card-content" style="padding-left: 160px;">
                     <div class="content">
                         {{ image.description | markdownify }}
                     </div>

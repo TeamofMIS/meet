@@ -1,0 +1,101 @@
+- title: Faculty
+  images:
+    - link: http://faculty.hfut.edu.cn/_tsf/00/01/aiu6Jv6jEZfq.png
+      alt: Prof. Ding
+      ratio: is-128x128
+      description: |-
+        #### [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm)
+        Group leader.
+
+- title: Member
+  images:
+    - link: https://avatars.githubusercontent.com/waynehfut
+      alt: Hao Wang
+      ratio: is-128x128
+      description: |-
+        #### [Hao Wang, Ph.D.](https://waynehfut.com/)
+        Group Convener.
+    - link: https://avatars.githubusercontent.com/ksz-creat
+      alt: Shuizhou Ke
+      ratio: is-128x128
+      description: |-
+        #### [Shuizhou Ke](https://github.com/ksz-creat)
+        Postgraduates, 2020~
+    - link: https://avatars.githubusercontent.com/xthc
+      alt: Yuanbo Zhu
+      ratio: is-128x128
+      description: |-
+        #### [Yuanbo Zhu](https://github.com/xthc)
+        Doctoral candidate, 2021~
+    - link: https://avatars.githubusercontent.com/trigger26
+      alt: Yuxuan Yang
+      ratio: is-128x128
+      description: |-
+        #### [Yuxuan Yang](https://github.com/trigger26)
+        Postgraduates, 2021~
+    - link: https://avatars.githubusercontent.com/syypretend
+      alt: Yiyang Su
+      ratio: is-128x128
+      description: |-
+        #### [Yiyang Su](https://github.com/syypretend)
+        Postgraduates, 2021~
+    - link: https://avatars.githubusercontent.com/Li0316
+      alt: Shihui Li
+      ratio: is-128x128
+      description: |-
+        #### [Shihui Li](https://github.com/Li0316)
+        Postgraduates, 2021~
+    - link: https://avatars.githubusercontent.com/Graves-2077
+      alt: Yifan Wang
+      ratio: is-128x128
+      description: |-
+        #### [Yifan Wang](https://github.com/Graves-2077)
+        Postgraduates, 2022~
+
+- title: Alumni
+  images:
+    - link: https://avatars.githubusercontent.com/Vikenmin
+      alt: Hongmin Zhang
+      ratio: is-128x128
+      description: |-
+        #### [Hongmin Zhang, MSc'2020](https://github.com/Vikenmin) 
+         Suning.com
+    - link: https://avatars.githubusercontent.com/jiaxinshiwo
+      alt: Jiaxin Wang
+      ratio: is-128x128
+      description: |-
+        #### [Jiaxin Wang, MSc'2020](https://github.com/jiaxinshiwo) 
+        Second Affiliated Hospital of AMU.
+    - link: https://avatars.githubusercontent.com/Terry-tr
+      alt: Rui Tan
+      ratio: is-128x128
+      description: |-
+        #### [Rui Tan, MSc'2020](https://github.com/Terry-tr) 
+        Midea Group.
+
+- title: Visitor
+  images:
+    - link: https://avatars.githubusercontent.com/qyhfut
+      alt: Yan Qiu
+      ratio: is-128x128
+      description: |-
+        #### [Yan Qiu](https://github.com/qyhfut) 
+        2021.06-2021.09
+    - link: https://avatars.githubusercontent.com/innocentius
+      alt: Luyue Zhao
+      ratio: is-128x128
+      description: |-
+        #### [Luyue Zhao](https://innocentius.tech/) 
+        2021.06-2021.09
+    - link: https://via.placeholder.com/128x128
+      alt: Caiyun Zhang
+      ratio: is-128x128
+      description: |-
+        #### Caiyun Zhang 
+        2021.06-2021.09
+    - link: https://via.placeholder.com/128x128
+      alt: Xiaojian Huang
+      ratio: is-128x128
+      description: |-
+        #### Xiaojian Huang
+        2020.12-2021.06     
