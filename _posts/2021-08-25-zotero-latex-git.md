@@ -16,7 +16,7 @@ Quick tutorials for Git, Latex and Zotero by Hao Wang.
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXFAeL0M-ssA1GK5jiOJHjb_tJ_aFKb7tL9jGPVmzJ9oCdQ1vZkcx7IMHCrl_YhQq4gZHBr6tD8Kx7/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<!-- Google embed ends -->
+<!-- this is the embed code provided by Microsoft -->
+  <iframe src="https://onedrive.live.com/embed?cid=AC2A2775B75365A6&amp;resid=AC2A2775B75365A6%218040&amp;authkey=ANZITd7oRpX23k4&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
+<!-- Microsoft embed ends -->
 </div>

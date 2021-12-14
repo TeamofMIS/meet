@@ -2,7 +2,7 @@
 lang: cn
 title: TeamMIS
 tagline: Group site for team MIS
-email: waynehfut@outlook.com
+email: waynehfut@foxmail.com
 description: >
   Group site for team MIS
 # baseurl: "/"
@@ -11,7 +11,7 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: waynehfut
 #hide_share_buttons: true
-theme_color: '#eeeeee'
+theme_color: '#2596be'
 #fixed_navbar: top
 
 paginate: 5
