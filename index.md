@@ -22,7 +22,7 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 12/09/2021, We will discuss about Federated Learning, by Yiyang Su.
+- 12/16/2021, TBD.
 
 ## Scheduled Events
 
