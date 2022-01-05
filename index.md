@@ -22,7 +22,7 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 12/16/2021, TBD.
+- 01/12/2022, Yuxuan Yang will share his recent research.
 
 ## Scheduled Events
  
