@@ -25,6 +25,8 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 - 12/16/2021, TBD.
 
 ## Scheduled Events
+ 
+- 05/01/2022, Dissipative structure, by Shihui Li，[attachments](assets/slides/2022-01-05-Dissipative structure.pdf).
 
 - 12/09/2021, Federated Learning, by Yiyang Su，[attachments](assets/slides/2021-12-09-Federated Learning.pdf).
 
