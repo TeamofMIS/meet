@@ -22,10 +22,11 @@ Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 02/14/2022, Yuxuan Yang will share his recent research.
+- 02/24/2022, Yiyang Su will share his recent research.
 
 ## Scheduled Events
 
+- 02/17/2022, Video retrieval in minimally invasive surgery based on semantic-preserving hashing, by Yuxuan Yang.
 - 02/07/2022, We will discuss our research progress.
 - 01/05/2022, Dissipative structure, by Shihui Li，[attachments](assets/slides/2022-01-05-Dissipative structure.pdf).
 
