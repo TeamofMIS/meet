@@ -9,6 +9,7 @@ hero_darken: true
 image: https://images.unsplash.com/photo-1474377207190-a7d8b3334068?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
 tags: resource jekyll docs
 ---
+This is post by Yuxuan Yang
 
 分享一个用于生成CCF期刊/会议检索式的Python脚本。
 
