@@ -15,6 +15,12 @@
       description: |-
         #### [Dr. Hao Wang](https://waynehfut.com/)
         Group Convener.
+    - link: https://avatars.githubusercontent.com/Xueyan-Li
+      alt: Xueyan Li
+      ratio: is-128x128
+      description: |-
+        #### [Xueyan Li](https://github.com/Xueyan-Li) 
+        Post-doctoral 2021~
     - link: https://avatars.githubusercontent.com/ksz-creat
       alt: Shuizhou Ke
       ratio: is-128x128
@@ -27,6 +33,12 @@
       description: |-
         #### [Yuanbo Zhu](https://github.com/xthc)
         Doctoral candidate, 2021~
+    - link: https://avatars.githubusercontent.com/innocentius
+      alt: Luyue Zhao
+      ratio: is-128x128
+      description: |-
+        #### [Luyue Zhao](https://innocentius.tech/) 
+        Doctoral candidate，2021~
     - link: https://avatars.githubusercontent.com/trigger26
       alt: Yuxuan Yang
       ratio: is-128x128
@@ -51,6 +63,25 @@
       description: |-
         #### [Yifan Wang](https://github.com/Graves-2077)
         Postgraduates, 2022~
+    - link: https://avatars.githubusercontent.com/Joy3369
+      alt: Yue Wang
+      ratio: is-128x128
+      description: |-
+        #### [Yue Wang](https://github.com/Joy3369)
+        Postgraduates, 2022~
+    - link: https://via.placeholder.com/128x128
+      alt: Caiyun Zhang
+      ratio: is-128x128
+      description: |-
+        #### Caiyun Zhang 
+        2021.06~
+    - link: https://avatars.githubusercontent.com/Richael-T
+      alt: Qiutong Shen
+      ratio: is-128x128
+      description: |-
+        #### [Qiutong Shen](https://github.com/Richael-T) 
+        MBA 2022~
+    
 
 - title: Alumni
   images:
@@ -80,18 +111,6 @@
       ratio: is-128x128
       description: |-
         #### [Yan Qiu](https://github.com/qyhfut) 
-        2021.06-2021.09
-    - link: https://avatars.githubusercontent.com/innocentius
-      alt: Luyue Zhao
-      ratio: is-128x128
-      description: |-
-        #### [Luyue Zhao](https://innocentius.tech/) 
-        2021.06-2021.09
-    - link: https://via.placeholder.com/128x128
-      alt: Caiyun Zhang
-      ratio: is-128x128
-      description: |-
-        #### Caiyun Zhang 
         2021.06-2021.09
     - link: https://via.placeholder.com/128x128
       alt: Xiaojian Huang
