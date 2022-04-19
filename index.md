@@ -1,6 +1,6 @@
 ---
-title: TeamMIS
-subtitle: Group site for team MIS
+title: TeamIHS
+subtitle: Group site for team IHS
 layout: page
 callouts: home_callouts
 show_sidebar: false
@@ -18,7 +18,7 @@ show_sidebar: false
   </script>
 </head>
 
-Welcome to the subgroup meeting page of the team MIS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Thursday.
+Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Thursday.
 
 ## Upcoming Events
 

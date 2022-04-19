@@ -1,10 +1,10 @@
 # Site Settings
 lang: cn
-title: TeamMIS
-tagline: Group site for team MIS
+title: TeamIHS
+tagline: Group site for team IHS
 email: waynehfut@foxmail.com
 description: >
-  Group site for team MIS
+  Group site for team IHS
 # baseurl: "/"
 url: "https://meet.waynehfut.com"
 permalink: pretty
