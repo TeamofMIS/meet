@@ -22,10 +22,10 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 02/24/2022, Yiyang Su will share his recent research.
+- 05/11/2022, Yifan Wang and Yue Wang will share their recent researches.
 
 ## Scheduled Events
-
+- 05/04/2022, Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching, by Yiyang Su, [attachments](assets/slides/2022-4-29-FSSL.pdf)
 - 02/17/2022, Video retrieval in minimally invasive surgery based on semantic-preserving hashing, by Yuxuan Yang.
 - 02/07/2022, We will discuss our research progress.
 - 01/05/2022, Dissipative structure, by Shihui Li，[attachments](assets/slides/2022-01-05-Dissipative structure.pdf).
