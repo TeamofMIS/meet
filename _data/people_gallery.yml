@@ -15,18 +15,24 @@
       description: |-
         #### [Dr. Hao Wang](https://waynehfut.com/)
         Group Convener.
+    - link: https://avatars.githubusercontent.com/qyhfut
+      alt: Yan Qiu
+      ratio: is-128x128
+      description: |-
+        #### [Yan Qiu](https://github.com/qyhfut) 
+        PhD candidate, 2018.06~
     - link: https://avatars.githubusercontent.com/ksz-creat
       alt: Shuizhou Ke
       ratio: is-128x128
       description: |-
         #### [Shuizhou Ke](https://github.com/ksz-creat)
-        Postgraduates, 2020~
+        Postgraduates, 2019~
     - link: https://avatars.githubusercontent.com/xthc
       alt: Yuanbo Zhu
       ratio: is-128x128
       description: |-
         #### [Yuanbo Zhu](https://github.com/xthc)
-        Doctoral candidate, 2021~
+        PhD candidate, 2021~
     - link: https://avatars.githubusercontent.com/Xueyan-Li
       alt: Xueyan Li
       ratio: is-128x128
@@ -38,7 +44,7 @@
       ratio: is-128x128
       description: |-
         #### [Luyue Zhao](https://innocentius.tech/) 
-        Doctoral candidate, 2021~
+        PhD candidate, 2021~
     - link: https://avatars.githubusercontent.com/trigger26
       alt: Yuxuan Yang
       ratio: is-128x128
@@ -111,12 +117,6 @@
 
 - title: Visitor
   images:
-    - link: https://avatars.githubusercontent.com/qyhfut
-      alt: Yan Qiu
-      ratio: is-128x128
-      description: |-
-        #### [Yan Qiu](https://github.com/qyhfut) 
-        2021.06-2021.09
     - link: https://via.placeholder.com/128x128
       alt: Xiaojian Huang
       ratio: is-128x128
