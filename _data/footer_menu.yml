@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: People
-  link: /peoples/
+  link: /navi/peoples/
 - name: About
-  link: /about/
+  link: /navi/about/
 

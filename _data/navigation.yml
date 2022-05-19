@@ -1,16 +1,16 @@
 - name: People
-  link: /peoples/
+  link: /navi/peoples/
 - name: Post
   link: /blog/
 - name: Award
-  link: /award/
+  link: /navi/award/
 - name: Archive Events
   link: /#
   dropdown:
     - name: 2021
-      link: /archive/ach21/
+      link: /navi/archive/ach21/
     - name: 2020
-      link: /archive/ach20/
+      link: /navi/archive/ach20/
 - name: About
-  link: /about/
+  link: /navi/about/
 
