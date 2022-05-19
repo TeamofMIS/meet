@@ -22,10 +22,12 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 05/18/2022, A design science approach to the Infodemic Risk Assessment problem, by Luyue Zhao. 
+- 05/25/2022, Caiyun Zhang will share their experience about obtain the data from the website. 
 
 ## Scheduled Events
-- 05/11/2022, Yifan Wang and Yue Wang will share their recent researches.
+
+- 05/18/2022, A design science approach to the Infodemic Risk Assessment problem, by Luyue Zhao. 
+- 05/11/2022, Yifan Wang and Yue Wang shared their recent researches.
 - 05/04/2022, Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching, by Yiyang Su, [attachments](assets/slides/2022-4-29-FSSL.pdf)
 - 02/17/2022, Video retrieval in minimally invasive surgery based on semantic-preserving hashing, by Yuxuan Yang.
 - 02/07/2022, We will discuss our research progress.
