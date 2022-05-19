@@ -6,6 +6,7 @@ callouts: home_callouts
 show_sidebar: false
 ---
 
+<!-- enable the latex in the markdown -->
 <head>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   <script type="text/x-mathjax-config">
@@ -17,6 +18,7 @@ show_sidebar: false
   });
   </script>
 </head>
+<!-- end of the addtional script -->
 
 Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Thursday.
 
