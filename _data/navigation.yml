@@ -8,9 +8,9 @@
   link: /#
   dropdown:
     - name: 2021
-      link: /ach21/
+      link: /archive/ach21/
     - name: 2020
-      link: /ach20/
+      link: /archive/ach20/
 - name: About
   link: /about/
 
