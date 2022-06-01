@@ -24,10 +24,10 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 05/25/2022, Caiyun Zhang will share their experience about obtain the data from the website. 
 
 ## Scheduled Events
 
+- 06/01/2022, Experience about obtain the data from the website, by Caiyun Zhang.
 - 05/18/2022, A design science approach to the Infodemic Risk Assessment problem, by Luyue Zhao. 
 - 05/11/2022, Yifan Wang and Yue Wang shared their recent researches.
 - 05/04/2022, Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching, by Yiyang Su, [attachments](assets/slides/2022-4-29-FSSL.pdf)
@@ -38,5 +38,6 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 ## Group News
 
 - 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation!
+<img src="img/meet_in_june_1st.jpeg" width = "55%" />
 - 10/10/2021, Welcome Yifan Wang and Yue Wang join our team!
 - 10/01/2021, Congratulations to our group member Yuxuan Yang won the 3rd Prize (Team name: HFUT-MedIA) in Surgical Action Triplet Recognition 2021 Challenge! [News](https://cholectriplet2021.grand-challenge.org/), [Leadboard](https://cholectriplet2021.grand-challenge.org/results/).
