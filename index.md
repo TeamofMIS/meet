@@ -24,10 +24,11 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
+- 06/22/2022, Shuizhou Ke will share his research progress.
 
 ## Scheduled Events
 
-- 16/16/2022, Introduction to python experiment management and visualization tools for machine learning, by Yuxuan Yang, [attachments](assets/slides/2022-06-16-experiment-management.pdf).
+- 06/16/2022, Introduction to python experiment management and visualization tools for machine learning, by Yuxuan Yang, [attachments](assets/slides/2022-06-16-experiment-management.pdf).
 - 06/01/2022, Experience about obtain the data from the website, by Caiyun Zhang.
 - 05/18/2022, A design science approach to the Infodemic Risk Assessment problem, by Luyue Zhao. 
 - 05/11/2022, Yifan Wang and Yue Wang shared their recent researches.
