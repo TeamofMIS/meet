@@ -28,7 +28,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Scheduled Events
 
-- 06/23/2022, Introduction about python multi-GPU training, including Dataparallel and DistributedDataparallel, by Shuizhou Ke, [attachments](assets/slides/2022-06-06-23-multiGPU.pdf).
+- 06/23/2022, Introduction about python multi-GPU training, including Dataparallel and DistributedDataparallel, by Shuizhou Ke, [attachments](assets/slides/2022-6-23-multi-GPU.pdf).
 - 06/16/2022, Introduction to python experiment management and visualization tools for machine learning, by Yuxuan Yang, [attachments](assets/slides/2022-06-16-experiment-management.pdf).
 - 06/01/2022, Experience about obtain the data from the website, by Caiyun Zhang.
 - 05/18/2022, A design science approach to the Infodemic Risk Assessment problem, by Luyue Zhao. 
