@@ -41,7 +41,8 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 ## Group News
 
 - 06/22/2022, Three provincial standard proposals has been approved by the anhui provincial bureau of market supervision!
-- 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation! <details>
+- 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation! 
+<details>
   <summary>IMG</summary>
   <img src="img/meet_in_june_1st.jpeg" />
 </details>
