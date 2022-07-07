@@ -24,7 +24,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- 06/29/2022, Yuanbo Zhu will share his research progress.
+- 07/08/2022, Shihui Li will share his research progress.
 
 ## Scheduled Events
 
