@@ -27,7 +27,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 - 07/08/2022, Shihui Li will share his research progress.
 
 ## Scheduled Events
-
+- 07/12/2022, Introduction SHAP, by Shihui Li, [attachments](assets/slides/2022-07-12-SHAP.pdf).
 - 07/01/2022, Introduction to Git and how to get started with Git and GitHub, by Yuanbo Zhu, [attachments](assets/slides/2022-07-01-Git et GitHub.pdf).
 - 06/23/2022, Introduction about python multi-GPU training, including Dataparallel and DistributedDataparallel, by Shuizhou Ke, [attachments](assets/slides/2022-6-23-multi-GPU.pdf).
 - 06/16/2022, Introduction to python experiment management and visualization tools for machine learning, by Yuxuan Yang, [attachments](assets/slides/2022-06-16-experiment-management.pdf).
