@@ -29,7 +29,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 ## Scheduled Events
 - 07/17/2022, Classification and clustering, by Qiutong Shen.
 - 07/12/2022, Introduction SHAP, by Shihui Li, [attachments](assets/slides/2022-07-12-SHAP.pdf).
-- 07/01/2022, Introduction to Git and how to get started with Git and GitHub, by Yuanbo Zhu, [attachments](assets/slides/2022-07-01-Git et GitHub.pdf).
+- 07/01/2022, Introduction to Git and how to get started with Git and GitHub, by Yuanbo Zhu, [attachments](assets/slides/2022-07-01-GitetGitHub.pdf).
 - 06/23/2022, Introduction about python multi-GPU training, including Dataparallel and DistributedDataparallel, by Shuizhou Ke, [attachments](assets/slides/2022-6-23-multi-GPU.pdf).
 - 06/16/2022, Introduction to python experiment management and visualization tools for machine learning, by Yuxuan Yang, [attachments](assets/slides/2022-06-16-experiment-management.pdf).
 - 06/01/2022, Experience about obtain the data from the website, by Caiyun Zhang.
@@ -38,7 +38,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 - 05/04/2022, Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching, by Yiyang Su, [attachments](assets/slides/2022-4-29-FSSL.pdf)
 - 02/17/2022, Video retrieval in minimally invasive surgery based on semantic-preserving hashing, by Yuxuan Yang.
 - 02/07/2022, We will discuss our research progress.
-- 01/05/2022, Dissipative structure, by Shihui Li，[attachments](assets/slides/2022-01-05-Dissipative structure.pdf).
+- 01/05/2022, Dissipative structure, by Shihui Li，[attachments](assets/slides/2022-01-05-Dissipative-structure.pdf).
 
 ## Group News
 
