@@ -27,6 +27,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 - Shuizhou Ke will share his research idea.
 
 ## Scheduled Events
+- 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022.7.21Domain Adaptation.pdf)
 - 07/17/2022, Classification and clustering, by Qiutong Shen.
 - 07/12/2022, Introduction SHAP, by Shihui Li, [attachments](assets/slides/2022-07-12-SHAP.pdf).
 - 07/01/2022, Introduction to Git and how to get started with Git and GitHub, by Yuanbo Zhu, [attachments](assets/slides/2022-07-01-GitetGitHub.pdf).
