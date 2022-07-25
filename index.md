@@ -24,7 +24,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- Shuizhou Ke will share his research idea.
+- Yuanbo Zhu will share his research idea.
 
 ## Scheduled Events
 - 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022.7.21Domain-Adaptation.pdf).
