@@ -43,6 +43,8 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Group News
 
+
+- 7/20/2022, Welcome Xiangshan Wang join our team!
 - 06/22/2022, Three provincial standard proposals has been approved by the anhui provincial bureau of market supervision!
 - 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation! 
 <details>
