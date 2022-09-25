@@ -27,6 +27,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 - Luyue Zhao will share his research idea.
 
 ## Scheduled Events
+- 09/23/2022, Introduction about nonlinear dimensionality reduction, by Yuxuan Yang, [attachments](assets/slides/2022-09-23-SNE.pdf). Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos, by Yiyang Su, [attachments](assets/slides/2022-09-23-Rendezvous.pdf).
 - 08/12/2022, Introduction about Multimodal Machine Learning, by Yuanbo Zhu, [attachments](assets/slides/2022-08-12-MMML.pdf).
 - 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022-07-21Domain-Adaptation.pdf).
 - 07/17/2022, Classification and clustering, by Qiutong Shen.
