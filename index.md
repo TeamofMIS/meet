@@ -24,9 +24,10 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-- Luyue Zhao will share his research idea.
+Yifan Wang and Xiangshan Wang will share their research progress.
 
 ## Scheduled Events
+- 10/30/2022, Research on Cross-region Patient Scheduling Problem Considering Travel Time and Machine Setup Time, by Yue Wang, [attachments](assets/slides/2022-10-30-Cross-region-Patient-Scheduling.pdf). Data Envelopmengt Analysis, by Mengran Li, [attachments](assets/slides/2022-10-30-DEA.pdf)
 - 09/23/2022, Introduction about nonlinear dimensionality reduction, by Yuxuan Yang, [attachments](assets/slides/2022-09-23-SNE.pdf). Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos, by Yiyang Su, [attachments](assets/slides/2022-09-23-Rendezvous.pdf).
 - 08/12/2022, Introduction about Multimodal Machine Learning, by Yuanbo Zhu, [attachments](assets/slides/2022-08-12-MMML.pdf).
 - 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022-07-21Domain-Adaptation.pdf).
