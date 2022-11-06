@@ -27,7 +27,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 Shuizhou Ke and Yuanbo Zhu will share their research progress.
 
 ## Scheduled Events
-- 11/06/2022, Data governance: Organizing data for trustworthy Artificial Intelligence, by Yifan Wang, [attachments](assets/slides/2022-11-06-Data-Governance.pdf). Blog Emotional Pain Recognition Paper Sharing, by Xiangshan Wang, [attachments](assets/slides/2022-11-06-Blog-emotional-distress-recognitionpdf)
+- 11/06/2022, Data governance: Organizing data for trustworthy Artificial Intelligence, by Yifan Wang, [attachments](assets/slides/2022-11-06-Data-Governance.pdf). Blog Emotional Distress Recognition Paper Sharing, by Xiangshan Wang, [attachments](assets/slides/2022-11-06-Blog-emotional-distress-recognitionpdf)
 - 10/30/2022, Research on Cross-region Patient Scheduling Problem Considering Travel Time and Machine Setup Time, by Yue Wang, [attachments](assets/slides/2022-10-30-Cross-region-Patient-Scheduling.pdf). Data Envelopmengt Analysis, by Mengran Li, [attachments](assets/slides/2022-10-30-DEA.pdf)
 - 09/23/2022, Introduction about nonlinear dimensionality reduction, by Yuxuan Yang, [attachments](assets/slides/2022-09-23-SNE.pdf). Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos, by Yiyang Su, [attachments](assets/slides/2022-09-23-Rendezvous.pdf).
 - 08/12/2022, Introduction about Multimodal Machine Learning, by Yuanbo Zhu, [attachments](assets/slides/2022-08-12-MMML.pdf).
