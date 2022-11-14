@@ -24,14 +24,15 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-Shuizhou Ke and Yuanbo Zhu will share their research progress.
+Shuizhou Ke, Luyue Zhao and Yuxuan Yang will share their research progress.
 
 ## Scheduled Events
+- 11/13/2022, Data governance: Organizing data for trustworthy Artificial Intelligence, by Yuanbo Zhu, [attachments](assets/slides/2022-11-13-DDI-et-IQA.pdf).
 - 11/06/2022, Data governance: Organizing data for trustworthy Artificial Intelligence, by Yifan Wang, [attachments](assets/slides/2022-11-06-Data-Governance.pdf). Blog Emotional Distress Recognition Paper Sharing, by Xiangshan Wang, [attachments](assets/slides/2022-11-06-Blog-emotional-distress-recognition.pdf)
 - 10/30/2022, Research on Cross-region Patient Scheduling Problem Considering Travel Time and Machine Setup Time, by Yue Wang, [attachments](assets/slides/2022-10-30-Cross-region-Patient-Scheduling.pdf). Data Envelopmengt Analysis, by Mengran Li, [attachments](assets/slides/2022-10-30-DEA.pdf)
 - 09/23/2022, Introduction about nonlinear dimensionality reduction, by Yuxuan Yang, [attachments](assets/slides/2022-09-23-SNE.pdf). Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos, by Yiyang Su, [attachments](assets/slides/2022-09-23-Rendezvous.pdf).
 - 08/12/2022, Introduction about Multimodal Machine Learning, by Yuanbo Zhu, [attachments](assets/slides/2022-08-12-MMML.pdf).
-- 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022-07-21Domain-Adaptation.pdf).
+- 07/21/2022, Introduction about Domain Adaptaion, by Shuizhou Ke, [attachments](assets/slides/2022-07-21-Domain-Adaptation.pdf).
 - 07/17/2022, Classification and clustering, by Qiutong Shen.
 - 07/12/2022, Introduction SHAP, by Shihui Li, [attachments](assets/slides/2022-07-12-SHAP.pdf).
 - 07/01/2022, Introduction to Git and how to get started with Git and GitHub, by Yuanbo Zhu, [attachments](assets/slides/2022-07-01-GitetGitHub.pdf).
