@@ -24,9 +24,10 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-Shuizhou Ke, Luyue Zhao and Yuxuan Yang will share their research progress.
+Yiyang Su and Shihui Li will share their research progress.
 
 ## Scheduled Events
+- 11/27/2022, Enhanced Deep Discrete Hashing with semantic-visual similarity for image retrieval, by Yuxuan Yang, [attachments](assets/slides/2022-11-27-enhanced-hashing.pdf). Context-aware and Time-aware Attention-based Model for Disease Risk Prediction with Interpretability, by Shuizhou Ke, [attachments](assets/slides/2022-11-27-tkde-disease-prediction.pdf).
 - 11/13/2022, Image Distortion Detection and Image Quality Assessment, by Yuanbo Zhu, [attachments](assets/slides/2022-11-13-IDD-et-IQA.pdf).
 - 11/06/2022, Data governance: Organizing data for trustworthy Artificial Intelligence, by Yifan Wang, [attachments](assets/slides/2022-11-06-Data-Governance.pdf). Blog Emotional Distress Recognition Paper Sharing, by Xiangshan Wang, [attachments](assets/slides/2022-11-06-Blog-emotional-distress-recognition.pdf)
 - 10/30/2022, Research on Cross-region Patient Scheduling Problem Considering Travel Time and Machine Setup Time, by Yue Wang, [attachments](assets/slides/2022-10-30-Cross-region-Patient-Scheduling.pdf). Data Envelopmengt Analysis, by Mengran Li, [attachments](assets/slides/2022-10-30-DEA.pdf)
