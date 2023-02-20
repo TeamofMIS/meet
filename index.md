@@ -24,7 +24,7 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-Happy new year! Yan Qiu and Mengran Li will share their research progress in 2023.
+Happy new year! Shuizhou Ke and Luyue Zhao will share their research progress in 2023.
 
 ## Scheduled Events
 
