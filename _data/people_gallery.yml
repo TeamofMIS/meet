@@ -6,15 +6,15 @@
       description: |-
         #### [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm)
         Group leader.
-
-- title: Member
-  images:
     - link: https://avatars.githubusercontent.com/waynehfut
       alt: Hao Wang
       ratio: is-128x128
       description: |-
-        #### [Dr. Hao Wang](https://waynehfut.com/)
+        #### [Dr. Hao Wang](https://www.waynehfut.com/)
         Group Convener.
+        
+- title: Current Member
+  images:
     - link: https://avatars.githubusercontent.com/qyhfut
       alt: Yan Qiu
       ratio: is-128x128
