@@ -30,7 +30,7 @@ Yue Wang and Yifan Wang will share theirs research progress in this week.
 
 - Date, Title, Source.
 - 06/19/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
-- 07/10/2023, The SlR, meat-ethnography and E-CARGO models are introduced, and future work is discussed in conjunction with existing methods, by Haitao Cui, [attachments](assets/slides/2023-07-10-E-CARGO-model-and-future-work-discussion.pdf).
+- 07/10/2023, The SlR, meat-ethnography and E-CARGO models are introduced, and future work is discussed in conjunction with existing methods, by Haitao Cui, [attachments](assets/slides/2023-07-10-E-CARGO-model-and-future-work-discussion.pdf). Perceived Effectiveness and Perceived Helpfulness(this article) Answers that match the context and disease acuteness have greater perceived helpfulness to the patient, by Congying Hao, [attachments](assets/slides/2023-07-10-A-Content-Context-Congruence-Perspective-Information-gap.pdf)
 
 ## Group News
 
