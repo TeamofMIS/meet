@@ -29,8 +29,8 @@ Yue Wang and Yifan Wang will share theirs research progress in this week.
 ## Scheduled Events
 
 - Date, Title, Source.
-- 07/10/2022, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
-- 07/10/2022, Reconstructive Sequence-Graph Network for Video Summarization, by Yiyang Su, [attachments](assets/slides/2022-12-10-video-summary.pdf). EMPOWERING PATIENTS USING SMART MOBILE HEALTH PLATFORMS: EVIDENCE FROM A RANDOMIZED FIELD EXPERIMENT, by Shihui Li, [attachments](assets/slides/2022-12-10-SMART-MOBILE-HEALTH-PLATFORMS.pdf).
+- 19/06/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
+- 07/10/2023, Reconstructive Sequence-Graph Network for Video Summarization, by Yiyang Su, [attachments](assets/slides/2022-12-10-video-summary.pdf). EMPOWERING PATIENTS USING SMART MOBILE HEALTH PLATFORMS: EVIDENCE FROM A RANDOMIZED FIELD EXPERIMENT, by Shihui Li, [attachments](assets/slides/2022-12-10-SMART-MOBILE-HEALTH-PLATFORMS.pdf).
 
 ## Group News
 
