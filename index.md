@@ -29,6 +29,7 @@ Yue Wang and Yifan Wang will share theirs research progress in this week.
 ## Scheduled Events
 
 - Date, Title, Source.
+- 07/10/2022, Reconstructive Sequence-Graph Network for Video Summarization, by Yiyang Su, [attachments](assets/slides/2022-12-10-video-summary.pdf). EMPOWERING PATIENTS USING SMART MOBILE HEALTH PLATFORMS: EVIDENCE FROM A RANDOMIZED FIELD EXPERIMENT, by Shihui Li, [attachments](assets/slides/2022-12-10-SMART-MOBILE-HEALTH-PLATFORMS.pdf).
 
 ## Group News
 
