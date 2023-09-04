@@ -24,13 +24,13 @@ Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof.
 
 ## Upcoming Events
 
-Yue Wang and Yifan Wang will share theirs research progress in this week.
+Yiyang Su and Shihui Li will share theirs research progress in this week.
 
 ## Scheduled Events
 
-- Date, Title, Source.
-- 06/19/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
+<!-- - Date, Title, Source. -->
 - 07/10/2023, The SlR, meat-ethnography and E-CARGO models are introduced, and future work is discussed in conjunction with existing methods, by Haitao Cui, [attachments](assets/slides/2023-07-10-E-CARGO-model-and-future-work-discussion.pdf). Perceived Effectiveness and Perceived Helpfulness(this article) Answers that match the context and disease acuteness have greater perceived helpfulness to the patient, by Congying Hao, [attachments](assets/slides/2023-07-10-A-Content-Context-Congruence-Perspective-Information-gap.pdf)
+- 06/19/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
 
 ## Group News
 
