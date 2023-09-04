@@ -57,18 +57,6 @@
       description: |-
         #### [Shihui Li](https://github.com/Li0316)
         Postgraduates, 2021~
-    - link: https://avatars.githubusercontent.com/Richael-T
-      alt: Qiutong Shen
-      ratio: is-128x128
-      description: |-
-        #### [Qiutong Shen](https://github.com/Richael-T) 
-        MBA 2022~
-    - link: https://avatars.githubusercontent.com/799380513
-      alt: Mengran Li
-      ratio: is-128x128
-      description: |-
-        #### [Mengran Li](https://github.com/799380513) 
-        MBA 2022~  
     - link: https://avatars.githubusercontent.com/Joy3369
       alt: Yue Wang
       ratio: is-128x128
@@ -126,6 +114,18 @@
       description: |-
         #### Caiyun Zhang, MM'2022
         SMEC
+    - link: https://avatars.githubusercontent.com/Richael-T
+      alt: Qiutong Shen
+      ratio: is-128x128
+      description: |-
+        #### [Qiutong Shen](https://github.com/Richael-T) 
+        MBA 2022~2023
+    - link: https://avatars.githubusercontent.com/799380513
+      alt: Mengran Li
+      ratio: is-128x128
+      description: |-
+        #### [Mengran Li](https://github.com/799380513) 
+        MBA 2022~2023
 
 - title: Visitor
   images:
