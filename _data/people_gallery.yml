@@ -15,12 +15,6 @@
         
 - title: Current Member
   images:
-    - link: https://avatars.githubusercontent.com/qyhfut
-      alt: Yan Qiu
-      ratio: is-128x128
-      description: |-
-        #### [Yan Qiu](https://github.com/qyhfut) 
-        PhD candidate, 2018~
     - link: https://avatars.githubusercontent.com/ksz-creat
       alt: Shuizhou Ke
       ratio: is-128x128
@@ -90,6 +84,12 @@
 
 - title: Alumni
   images:
+    - link: https://avatars.githubusercontent.com/qyhfut
+      alt: Yan Qiu
+      ratio: is-128x128
+      description: |-
+        #### [Yan Qiu](https://github.com/qyhfut) 
+        PhD, 2018~2023
     - link: https://avatars.githubusercontent.com/Vikenmin
       alt: Hongmin Zhang
       ratio: is-128x128
