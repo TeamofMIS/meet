@@ -34,6 +34,7 @@ Yiyang Su and Shihui Li will share theirs research progress in this week.
 
 ## Group News
 
+- 06/21/2022, Congratulations to our group member Yan Qiu on successfully defending her dissertation!
 - 06/22/2022, Three provincial standard proposals has been approved by the anhui provincial bureau of market supervision!
 - 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation!
 
